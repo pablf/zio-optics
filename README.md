@@ -4,7 +4,6 @@
 
 # ZIO Optics
 
-
 [ZIO Optics](https://github.com/zio/zio-optics) is a library that makes it easy to modify parts of larger data structures based on a single representation of an optic as a combination of a getter and setter.
 
 [![Development](https://img.shields.io/badge/Project%20Stage-Development-green.svg)](https://github.com/zio/zio/wiki/Project-Stages) ![CI Badge](https://github.com/zio/zio-optics/workflows/CI/badge.svg) [![Sonatype Releases](https://img.shields.io/nexus/r/https/oss.sonatype.org/dev.zio/zio-optics_2.13.svg?label=Sonatype%20Release)](https://oss.sonatype.org/content/repositories/releases/dev/zio/zio-optics_2.13/) [![Sonatype Snapshots](https://img.shields.io/nexus/s/https/oss.sonatype.org/dev.zio/zio-optics_2.13.svg?label=Sonatype%20Snapshot)](https://oss.sonatype.org/content/repositories/snapshots/dev/zio/zio-optics_2.13/) [![javadoc](https://javadoc.io/badge2/dev.zio/zio-optics-docs_2.13/javadoc.svg)](https://javadoc.io/doc/dev.zio/zio-optics-docs_2.13) [![ZIO Optics](https://img.shields.io/github/stars/zio/zio-optics?style=social)](https://github.com/zio/zio-optics)
